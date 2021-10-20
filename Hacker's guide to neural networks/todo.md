@@ -1,0 +1,2 @@
+- [ ] Read the article
+- [ ] Implement this in another language (maybe lua or python)
